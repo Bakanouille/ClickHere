@@ -1,0 +1,4 @@
+function bouton()
+    {
+        alert("Félicitation!")
+    }
