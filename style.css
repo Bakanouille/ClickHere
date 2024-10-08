@@ -7,8 +7,7 @@
     font-size: 34px;
     background-color: green;
     color: white;
-    border-radius: 24px;
+    border-radius: 10px;
     cursor: pointer;
-    letter-spacing: 2px;
-
+    letter-spacing: 1,5px;
 }
